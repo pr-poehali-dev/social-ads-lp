@@ -20,7 +20,7 @@ const ExpertSection = () => {
                   <h3 className="text-xl font-bold mb-2 text-green-300">
                     Работать из любой точки мира
                   </h3>
-                  <p className="text-green-100">
+                  <p className="text-[#000000]">
                     Только телефон и интернет - вся твоя "офисная техника"
                   </p>
                 </CardContent>
@@ -32,7 +32,7 @@ const ExpertSection = () => {
                   <h3 className="text-xl font-bold mb-2 text-blue-300">
                     Зарабатывать в долларах
                   </h3>
-                  <p className="text-blue-100">
+                  <p className="text-[#000000]">
                     От $2000 в месяц, работая всего 1-2 часа в день
                   </p>
                 </CardContent>
@@ -44,7 +44,7 @@ const ExpertSection = () => {
                   <h3 className="text-xl font-bold mb-2 text-purple-300">
                     Быть хозяином времени
                   </h3>
-                  <p className="text-purple-100">
+                  <p className="text-[#000000]">
                     Никаких будильников, дедлайнов и злых начальников
                   </p>
                 </CardContent>
