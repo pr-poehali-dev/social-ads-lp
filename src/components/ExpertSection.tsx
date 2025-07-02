@@ -80,11 +80,11 @@ const ExpertSection = () => {
                   />
                 </div>
                 <Badge className="bg-orange-500 text-white text-lg px-6 py-2 mb-4">
-                  ⭐ ЭКСПЕРТ #1 ПО REELS
+                  ⭐ ЭКСПЕРТ В МОНЕТИЗАЦИИ КОНТЕНТА
                 </Badge>
-                <h3 className="text-3xl font-bold mb-2">Александр Иванов</h3>
+                <h3 className="text-3xl font-bold mb-2">Андрей Дильман</h3>
                 <p className="text-xl text-orange-200">
-                  Основатель "Reels Империя"
+                  Основатель "Reels Империя 1.0"
                 </p>
               </div>
 
@@ -131,7 +131,7 @@ const ExpertSection = () => {
                           40000+ партнеров из 44 стран
                         </div>
                         <div className="text-orange-100">
-                          Рекордные чеки от 145к в сутки
+                          Рекордные чеки от 145к в сутки пруфы на YouTube
                         </div>
                       </div>
                     </CardContent>
