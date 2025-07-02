@@ -114,7 +114,7 @@ const ExpertSection = () => {
                       <div className="text-3xl">🚀</div>
                       <div>
                         <div className="text-xl font-bold text-orange-300">
-                          40+ успешных проектов
+                          11+ успешных проектов
                         </div>
                         <div className="text-orange-100">
                           От нуля до миллионных оборотов
@@ -128,10 +128,10 @@ const ExpertSection = () => {
                       <div className="text-3xl">💰</div>
                       <div>
                         <div className="text-xl font-bold text-orange-300">
-                          5000+ учеников
+                          40000+ партнеров из 44 стран
                         </div>
                         <div className="text-orange-100">
-                          Зарабатывают от 50 000 ₽ в месяч
+                          Рекордные чеки от 145к в сутки
                         </div>
                       </div>
                     </CardContent>
@@ -142,7 +142,7 @@ const ExpertSection = () => {
                       <div className="text-3xl">🏆</div>
                       <div>
                         <div className="text-xl font-bold text-orange-300">
-                          Топ-3 эксперта в СНГ
+                          Топ-Лидер и Амбассадор на рынке СНГ
                         </div>
                         <div className="text-orange-100">
                           По монетизации контента в социальных сетях

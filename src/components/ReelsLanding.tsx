@@ -15,7 +15,7 @@ const ReelsLanding = () => {
               variant="secondary"
               className="mb-6 bg-orange-500/20 text-orange-200 border-orange-400"
             >
-              🔥 НОВЫЙ СПОСОБ ЗАРАБОТКА 2025
+              🔥 НОВЫЙ ТРЕНД ЗАРАБОТКА 2025
             </Badge>
 
             <h1 className="text-5xl md:text-7xl font-bold mb-8 bg-gradient-to-r from-white to-orange-200 bg-clip-text text-transparent">
@@ -32,7 +32,7 @@ const ReelsLanding = () => {
                 на Reels
               </p>
               <p className="text-white font-semibold">
-                📱 Всего 15 минут в день!
+                📱 Всего 2-4 часа в день!
               </p>
             </div>
 
