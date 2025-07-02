@@ -54,8 +54,8 @@ const ReelsLanding = () => {
             <div className="grid md:grid-cols-3 gap-6 text-center">
               <div className="bg-white/10 backdrop-blur-sm p-6 rounded-2xl">
                 <div className="text-4xl mb-2">⏱️</div>
-                <div className="text-xl font-bold">15 минут в день</div>
-                <div className="text-orange-200">Максимум времени</div>
+                <div className="text-xl font-bold">2 часа в день</div>
+                <div className="text-orange-200">Минимум времени</div>
               </div>
               <div className="bg-white/10 backdrop-blur-sm p-6 rounded-2xl">
                 <div className="text-4xl mb-2">💰</div>
