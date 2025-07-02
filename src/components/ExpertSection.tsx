@@ -72,9 +72,7 @@ const ExpertSection = () => {
             <div className="grid md:grid-cols-2 gap-12 items-center">
               {/* Photo Placeholder */}
               <div className="text-center">
-                <div className="w-64 h-64 mx-auto bg-gradient-to-br from-orange-400 to-purple-600 rounded-full flex items-center justify-center text-8xl mb-6">
-                  👨‍💼
-                </div>
+                <div className="w-64 h-64 mx-auto bg-gradient-to-br from-orange-400 to-purple-600 rounded-full flex items-center justify-center text-8xl mb-6 px-[27px]"></div>
                 <Badge className="bg-orange-500 text-white text-lg px-6 py-2 mb-4">
                   ⭐ ЭКСПЕРТ #1 ПО REELS
                 </Badge>
