@@ -70,9 +70,15 @@ const ExpertSection = () => {
           {/* Expert Section */}
           <div className="bg-gradient-to-r from-purple-800/50 to-orange-600/50 backdrop-blur-sm rounded-3xl p-8 md:p-12">
             <div className="grid md:grid-cols-2 gap-12 items-center">
-              {/* Photo Placeholder */}
+              {/* Photo */}
               <div className="text-center">
-                <div className="w-64 h-64 mx-auto bg-gradient-to-br from-orange-400 to-purple-600 rounded-full flex items-center justify-center text-8xl mb-6 px-[27px]"></div>
+                <div className="w-64 h-64 mx-auto rounded-full overflow-hidden border-4 border-orange-400 shadow-2xl mb-6">
+                  <img
+                    src="https://cdn.poehali.dev/files/250ba8a6-b3b4-4663-9670-9872eaf3d026.jpg"
+                    alt="Александр Иванов - эксперт по Reels"
+                    className="w-full h-full object-cover"
+                  />
+                </div>
                 <Badge className="bg-orange-500 text-white text-lg px-6 py-2 mb-4">
                   ⭐ ЭКСПЕРТ #1 ПО REELS
                 </Badge>
