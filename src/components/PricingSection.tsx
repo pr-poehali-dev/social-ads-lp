@@ -154,8 +154,8 @@ const PricingSection = () => {
               <span className="text-green-400">100% гарантия результата</span>
             </h3>
             <p className="text-gray-300 mb-6">
-              Если через 30 дней ты не заработаешь минимум 50,000₽ — мы вернем
-              всю сумму!
+              Если через 30 дней ты не заработаешь минимум 50,000₽ выполнев все
+              шаги ㅤМы вернем всю сумму!
             </p>
 
             <div className="flex justify-center items-center gap-6 text-gray-400 text-sm">
