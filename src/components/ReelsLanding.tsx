@@ -14,9 +14,7 @@ const ReelsLanding = () => {
             <Badge
               variant="secondary"
               className="mb-6 bg-orange-500/20 text-orange-200 border-orange-400"
-            >
-              🔥 НОВЫЙ ТРЕНД ЗАРАБОТКА 2025
-            </Badge>
+            >🔥 НОВЫЙ ТРЕНД ЗАРАБОТКА 2025-2026</Badge>
 
             <h1 className="text-5xl md:text-7xl font-bold mb-8 bg-gradient-to-r from-white to-orange-200 bg-clip-text text-transparent">
               Устал работать за копейки?
