@@ -21,7 +21,7 @@ const ProofSection = () => {
 
           <p className="text-xl md:text-2xl text-gray-300 max-w-4xl mx-auto leading-relaxed">
             Зарабатываю на партнерских программах с{" "}
-            <span className="text-green-400 font-bold">2014 года</span>. Вот
+            <span className="text-green-400 font-bold">2012 года</span>. Вот
             лишь{" "}
             <span className="text-blue-400 font-bold">
               малая часть айсберга
