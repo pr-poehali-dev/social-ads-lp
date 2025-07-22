@@ -157,7 +157,7 @@ const ProofSection = () => {
         <div className="bg-gradient-to-r from-slate-800/80 to-gray-800/80 rounded-3xl p-8 md:p-12 border border-gray-600/50 backdrop-blur-sm mb-12">
           <div className="text-center mb-8">
             <h3 className="text-3xl md:text-4xl font-bold text-white mb-4">
-              <span className="text-green-400">10 лет</span> в партнерском
+              <span className="text-green-400">13 лет</span> в партнерском
               маркетинге
             </h3>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
@@ -171,21 +171,17 @@ const ProofSection = () => {
             <div className="text-center">
               <div className="text-4xl mb-3">🎯</div>
               <h4 className="text-white font-bold mb-2">Протестировал</h4>
-              <p className="text-gray-300 text-sm">
-                500+ различных стратегий продвижения
-              </p>
+              <p className="text-gray-300 text-sm">50+ различных стратегий продвижения</p>
             </div>
             <div className="text-center">
               <div className="text-4xl mb-3">💰</div>
               <h4 className="text-white font-bold mb-2">Заработал</h4>
-              <p className="text-gray-300 text-sm">
-                Более 50 млн рублей суммарно
-              </p>
+              <p className="text-gray-300 text-sm">Более 25 млн рублей суммарно</p>
             </div>
             <div className="text-center">
               <div className="text-4xl mb-3">👥</div>
               <h4 className="text-white font-bold mb-2">Обучил</h4>
-              <p className="text-gray-300 text-sm">Более 15,000 учеников</p>
+              <p className="text-gray-300 text-sm">Более 5,000 учеников</p>
             </div>
           </div>
 
