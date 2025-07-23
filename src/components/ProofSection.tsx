@@ -105,7 +105,7 @@ const ProofSection = () => {
           <div className="bg-gradient-to-br from-orange-900/50 to-red-900/50 rounded-2xl p-6 border border-orange-400/30 backdrop-blur-sm">
             <div className="aspect-[4/3] bg-gray-800 rounded-xl mb-4 overflow-hidden">
               <img 
-                src="https://cdn.poehali.dev/files/7e42b2b1-fb37-4714-91b5-5b8b7722bee9.jpg" 
+                src="https://cdn.poehali.dev/files/69c84f97-20a7-403b-83c8-842f9c21c2ac.png" 
                 alt="QubitLife Withdrawal Confirmation" 
                 className="w-full h-full object-cover rounded-xl"
               />
