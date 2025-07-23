@@ -59,21 +59,21 @@ const ProofSection = () => {
           <div className="bg-gradient-to-br from-blue-900/50 to-cyan-900/50 rounded-2xl p-6 border border-blue-400/30 backdrop-blur-sm">
             <div className="aspect-[4/3] bg-gray-800 rounded-xl mb-4 overflow-hidden">
               <img 
-                src="https://cdn.poehali.dev/files/e9051954-ec16-43dd-89d5-c791dfc4f020.jpg" 
-                alt="FX Trading Corporation STAR6 Achievement" 
+                src="https://cdn.poehali.dev/files/22884700-2a0f-4fd1-949d-e06eb4c3627a.jpg" 
+                alt="PGI Global Withdrawal Confirmation" 
                 className="w-full h-full object-cover rounded-xl"
               />
             </div>
 
             <div className="text-center">
               <h3 className="text-blue-400 font-bold text-lg mb-2">
-                STAR6 Achievement
+                PGI Global Выплата
               </h3>
               <p className="text-gray-300 text-sm leading-relaxed">
                 <span className="text-blue-400 font-bold text-xl">
-                  🌟 Rolex Submariner
+                  $11,532.92
                 </span>
-                {" "}получен за достижение статуса STAR6 в FX Trading Corporation. Элитный уровень партнера с эксклюзивными наградами.
+                {" "}успешно выведено из PGI Global. Еще одно подтверждение стабильных доходов от проверенных стратегий.
               </p>
             </div>
           </div>
