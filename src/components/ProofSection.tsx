@@ -181,7 +181,7 @@ const ProofSection = () => {
             <div className="text-center">
               <div className="text-4xl mb-3">👥</div>
               <h4 className="text-white font-bold mb-2">Обучил</h4>
-              <p className="text-gray-300 text-sm">Более 5,000 учеников</p>
+              <p className="text-gray-300 text-sm">Более 5,000 партнёров</p>
             </div>
           </div>
 
