@@ -146,6 +146,29 @@ const ProofSection = () => {
               </p>
             </div>
           </div>
+
+          {/* Screenshot 6 - STAR6 Achievement */}
+          <div className="bg-gradient-to-br from-green-900/50 to-emerald-900/50 rounded-2xl p-6 border border-green-400/30 backdrop-blur-sm">
+            <div className="aspect-[4/3] bg-gray-800 rounded-xl mb-4 overflow-hidden">
+              <img 
+                src="https://cdn.poehali.dev/files/bd26ca16-a011-4636-b6f9-a1b8c7d03801.jpeg" 
+                alt="STAR6 Achievement with Rolex Submariner" 
+                className="w-full h-full object-cover rounded-xl"
+              />
+            </div>
+
+            <div className="text-center">
+              <h3 className="text-green-400 font-bold text-lg mb-2">
+                STAR6 Achievement
+              </h3>
+              <p className="text-gray-300 text-sm leading-relaxed">
+                <span className="text-green-400 font-bold text-xl">
+                  🏆 Rolex Submariner
+                </span>
+                {" "}получен за достижение статуса STAR6 в FX Trading Corporation. Элитный уровень партнера с эксклюзивными наградами.
+              </p>
+            </div>
+          </div>
         </div>
 
         {/* Experience Section */}
