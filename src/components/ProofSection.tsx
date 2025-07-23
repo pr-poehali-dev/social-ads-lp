@@ -128,7 +128,7 @@ const ProofSection = () => {
           <div className="bg-gradient-to-br from-yellow-900/50 to-amber-900/50 rounded-2xl p-6 border border-yellow-400/30 backdrop-blur-sm md:col-span-2 lg:col-span-1">
             <div className="aspect-[4/3] bg-gray-800 rounded-xl mb-4 overflow-hidden">
               <img 
-                src="https://cdn.poehali.dev/files/87b00de2-f424-4695-a21f-bfa46952f736.jpg" 
+                src="https://cdn.poehali.dev/files/a2237ab2-1c51-4f9f-8f01-e0fb16df95e3.jpg" 
                 alt="FXTrading Weekly Withdrawal Payment" 
                 className="w-full h-full object-cover rounded-xl"
               />
