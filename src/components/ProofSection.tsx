@@ -32,122 +32,117 @@ const ProofSection = () => {
 
         {/* Financial Screenshots Grid */}
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
-          {/* Screenshot 1 */}
+          {/* Screenshot 1 - Rolex Awards */}
           <div className="bg-gradient-to-br from-green-900/50 to-emerald-900/50 rounded-2xl p-6 border border-green-400/30 backdrop-blur-sm">
-            <div className="aspect-[4/3] bg-gray-800 rounded-xl mb-4 flex items-center justify-center border-2 border-dashed border-green-400/50">
-              <div className="text-center text-green-400">
-                <div className="text-4xl mb-2">💰</div>
-                <p className="text-sm font-semibold">Скриншот #1</p>
-                <p className="text-xs mt-1">Доход за месяц</p>
-              </div>
+            <div className="aspect-[4/3] bg-gray-800 rounded-xl mb-4 overflow-hidden">
+              <img 
+                src="https://cdn.poehali.dev/files/a6b5761a-1117-4d49-bf16-a93848b8cf4e.jpg" 
+                alt="Rolex Awards Portugal 2024" 
+                className="w-full h-full object-cover rounded-xl"
+              />
             </div>
 
             <div className="text-center">
               <h3 className="text-green-400 font-bold text-lg mb-2">
-                Январь 2024
+                Rolex Awards Portugal
               </h3>
               <p className="text-gray-300 text-sm leading-relaxed">
                 <span className="text-green-400 font-bold text-xl">
-                  847,000₽
+                  🏆 Награда
                 </span>{" "}
-                за месяц только с одной партнерской программы. Это результат
-                правильной стратегии и системного подхода к созданию контента.
+                за выдающиеся результаты в партнерской программе. Признание лучших достижений в трейдинге и инвестициях.
               </p>
             </div>
           </div>
 
-          {/* Screenshot 2 */}
+          {/* Screenshot 2 - FX Trading Star6 */}
           <div className="bg-gradient-to-br from-blue-900/50 to-cyan-900/50 rounded-2xl p-6 border border-blue-400/30 backdrop-blur-sm">
-            <div className="aspect-[4/3] bg-gray-800 rounded-xl mb-4 flex items-center justify-center border-2 border-dashed border-blue-400/50">
-              <div className="text-center text-blue-400">
-                <div className="text-4xl mb-2">📊</div>
-                <p className="text-sm font-semibold">Скриншот #2</p>
-                <p className="text-xs mt-1">Статистика продаж</p>
-              </div>
+            <div className="aspect-[4/3] bg-gray-800 rounded-xl mb-4 overflow-hidden">
+              <img 
+                src="https://cdn.poehali.dev/files/e9051954-ec16-43dd-89d5-c791dfc4f020.jpg" 
+                alt="FX Trading Corporation STAR6 Achievement" 
+                className="w-full h-full object-cover rounded-xl"
+              />
             </div>
 
             <div className="text-center">
               <h3 className="text-blue-400 font-bold text-lg mb-2">
-                Февраль 2024
+                STAR6 Achievement
               </h3>
               <p className="text-gray-300 text-sm leading-relaxed">
                 <span className="text-blue-400 font-bold text-xl">
-                  1,200,000₽
+                  🌟 Rolex Submariner
                 </span>
-                рекордный месяц! Показывает, как масштабируется бизнес при
-                правильном подходе. Каждый Reels работает на результат.
+                {" "}получен за достижение статуса STAR6 в FX Trading Corporation. Элитный уровень партнера с эксклюзивными наградами.
               </p>
             </div>
           </div>
 
-          {/* Screenshot 3 */}
+          {/* Screenshot 3 - QubitTech Rank 8 */}
           <div className="bg-gradient-to-br from-purple-900/50 to-pink-900/50 rounded-2xl p-6 border border-purple-400/30 backdrop-blur-sm">
-            <div className="aspect-[4/3] bg-gray-800 rounded-xl mb-4 flex items-center justify-center border-2 border-dashed border-purple-400/50">
-              <div className="text-center text-purple-400">
-                <div className="text-4xl mb-2">🚀</div>
-                <p className="text-sm font-semibold">Скриншот #3</p>
-                <p className="text-xs mt-1">Рост аудитории</p>
-              </div>
+            <div className="aspect-[4/3] bg-gray-800 rounded-xl mb-4 overflow-hidden">
+              <img 
+                src="https://cdn.poehali.dev/files/5ee3e437-3625-46e0-b50b-607cd8cc1e53.jpg" 
+                alt="QubitTech Rank 8 Achievement" 
+                className="w-full h-full object-cover rounded-xl"
+              />
             </div>
 
             <div className="text-center">
               <h3 className="text-purple-400 font-bold text-lg mb-2">
-                Март 2024
+                QubitTech Rank 8
               </h3>
               <p className="text-gray-300 text-sm leading-relaxed">
                 <span className="text-purple-400 font-bold text-xl">
-                  +250,000
+                  $25,000
                 </span>
-                новых подписчиков за месяц. Вирусная механика работает! Больше
-                аудитории = больше продаж.
+                {" "}персональная награда за достижение 8 ранга агента. Подтверждение статуса и отличных результатов в команде.
               </p>
             </div>
           </div>
 
-          {/* Screenshot 4 */}
+          {/* Screenshot 4 - QubitLife Withdrawal */}
           <div className="bg-gradient-to-br from-orange-900/50 to-red-900/50 rounded-2xl p-6 border border-orange-400/30 backdrop-blur-sm">
-            <div className="aspect-[4/3] bg-gray-800 rounded-xl mb-4 flex items-center justify-center border-2 border-dashed border-orange-400/50">
-              <div className="text-center text-orange-400">
-                <div className="text-4xl mb-2">💎</div>
-                <p className="text-sm font-semibold">Скриншот #4</p>
-                <p className="text-xs mt-1">Пассивный доход</p>
-              </div>
+            <div className="aspect-[4/3] bg-gray-800 rounded-xl mb-4 overflow-hidden">
+              <img 
+                src="https://cdn.poehali.dev/files/7e42b2b1-fb37-4714-91b5-5b8b7722bee9.jpg" 
+                alt="QubitLife Withdrawal Confirmation" 
+                className="w-full h-full object-cover rounded-xl"
+              />
             </div>
 
             <div className="text-center">
               <h3 className="text-orange-400 font-bold text-lg mb-2">
-                Апрель 2024
+                QubitLife Вывод
               </h3>
               <p className="text-gray-300 text-sm leading-relaxed">
                 <span className="text-orange-400 font-bold text-xl">
-                  673,000₽
+                  $3,300 USDT
                 </span>
-                пассивного дохода с уже созданного контента. Это сила системы —
-                один раз создал, получаешь постоянно.
+                {" "}успешно выведено. Подтверждение реальных выплат и стабильности системы пассивного дохода.
               </p>
             </div>
           </div>
 
-          {/* Screenshot 5 */}
+          {/* Screenshot 5 - FXTrading Withdrawal */}
           <div className="bg-gradient-to-br from-yellow-900/50 to-amber-900/50 rounded-2xl p-6 border border-yellow-400/30 backdrop-blur-sm md:col-span-2 lg:col-span-1">
-            <div className="aspect-[4/3] bg-gray-800 rounded-xl mb-4 flex items-center justify-center border-2 border-dashed border-yellow-400/50">
-              <div className="text-center text-yellow-400">
-                <div className="text-4xl mb-2">🏆</div>
-                <p className="text-sm font-semibold">Скриншот #5</p>
-                <p className="text-xs mt-1">Годовой результат</p>
-              </div>
+            <div className="aspect-[4/3] bg-gray-800 rounded-xl mb-4 overflow-hidden">
+              <img 
+                src="https://cdn.poehali.dev/files/87b00de2-f424-4695-a21f-bfa46952f736.jpg" 
+                alt="FXTrading Weekly Withdrawal Payment" 
+                className="w-full h-full object-cover rounded-xl"
+              />
             </div>
 
             <div className="text-center">
               <h3 className="text-yellow-400 font-bold text-lg mb-2">
-                Итог за 2024
+                FXTrading Выплата
               </h3>
               <p className="text-gray-300 text-sm leading-relaxed">
                 <span className="text-yellow-400 font-bold text-xl">
-                  12,4 млн₽
+                  $8,731.77
                 </span>
-                чистой прибыли за год! 10 лет опыта, сотни протестированных
-                стратегий. Теперь это доступно и тебе.
+                {" "}недельный доход от партнерской программы. Стабильные выплаты каждую неделю подтверждают надежность системы.
               </p>
             </div>
           </div>
