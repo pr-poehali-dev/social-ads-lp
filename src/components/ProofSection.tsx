@@ -151,7 +151,7 @@ const ProofSection = () => {
           <div className="bg-gradient-to-br from-green-900/50 to-emerald-900/50 rounded-2xl p-6 border border-green-400/30 backdrop-blur-sm">
             <div className="aspect-[4/3] bg-gray-800 rounded-xl mb-4 overflow-hidden">
               <img 
-                src="https://cdn.poehali.dev/files/bd26ca16-a011-4636-b6f9-a1b8c7d03801.jpeg" 
+                src="https://cdn.poehali.dev/files/fa9415ce-897a-4107-bb04-b51498be3b76.png" 
                 alt="STAR6 Achievement with Rolex Submariner" 
                 className="w-full h-full object-cover rounded-xl"
               />
