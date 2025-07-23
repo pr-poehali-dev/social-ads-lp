@@ -87,12 +87,9 @@ const ProofSection = () => {
               <h3 className="text-purple-400 font-bold text-lg mb-2">
                 QubitTech Rank 8
               </h3>
-              <p className="text-gray-300 text-sm leading-relaxed">
-                <span className="text-purple-400 font-bold text-xl">
-                  $25,000
-                </span>
-                {" "}персональная награда за достижение 8 ранга агента. Подтверждение статуса и отличных результатов в команде.
-              </p>
+              <p className="text-gray-300 text-sm leading-relaxed">Было одно из самых сложных карьерных достижений в рамках партнёрской программы Qubittech. Выполнил статус за 10 месяцев активной работы с трафиком.  
+
+P.S. Если раскрыть этот скриншот полностью, то будет видно, что меня поздравлял партнёр из Индии в своём сторис. Было чертовски приятно!</p>
             </div>
           </div>
 
